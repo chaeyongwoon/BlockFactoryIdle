@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a940bbc76b346429da342c9b8971540f, type: 3}
+  m_Name: Recipe_Data_0
+  m_EditorClassIdentifier: 
+  _recipeName: Block Man
+  _heroType: 0
+  _thumbnail_Sprite: {fileID: 21300000, guid: 7e6caf7d11f92455eb15a85fe4187e97, type: 3}
+  _bluePrint_Sprites:
+  - {fileID: 21300000, guid: 7e6caf7d11f92455eb15a85fe4187e97, type: 3}
+  _bluePrintFillSprites:
+  - {fileID: 21300000, guid: 7e6caf7d11f92455eb15a85fe4187e97, type: 3}
+  _makingTime: 5
+  _partsCount: 1
+  _partsSprites:
+  - {fileID: 21300000, guid: 1120f6ef2f5a447d2877be9d8f1300dc, type: 3}
+  - {fileID: 21300000, guid: b0e87dce5893c416d94b231e931cdb79, type: 3}
+  - {fileID: 21300000, guid: 1a5ee1d379aad4c3baf56e04a7e22633, type: 3}
+  - {fileID: 21300000, guid: 9e13fb28e7d4d4d669f5e0612a45a029, type: 3}
+  _partsMeshes:
+  - {fileID: -4623247679890240919, guid: 1c0241f62c32340049e7e91576b22f00, type: 3}
+  - {fileID: 4168865360628915878, guid: eb6775f70dd5943488bdae81feb1f1d1, type: 3}
+  - {fileID: 2454505630515052355, guid: 56951f48febaf4bdf9e2011e4bdcc0bd, type: 3}
+  - {fileID: 8271744385629103020, guid: 5f4c715460ce54c64bee97e8c5103050, type: 3}
+  _baseDamage: 10
+  _baseAttackInterval: 1
+  _baseSpeed: 5
+  _baseHP: 10
+  _baseDefense: 1
+  _damageValue: 5
+  _attackIntervalValue: 0.1
+  _speedValue: 2
+  _HPValue: 10
+  _defenseValue: 1

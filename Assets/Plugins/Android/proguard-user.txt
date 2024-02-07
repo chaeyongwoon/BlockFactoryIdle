@@ -1,0 +1,12 @@
+# Singular
+-keep class com.singular.sdk.** { *; }
+-keep public class com.android.installreferrer.** { *; }
+-keep public class com.singular.unitybridge.** { *; }
+# Facebook
+-keep class com.facebook.** { *; }
+# Adverty
+-keep class com.unity3d.player.**{ *; }
+-keep class com.adverty.**{ *; }
+# Firebase
+-keep public class com.google.firebase.analytics.FirebaseAnalytics { public *; }
+-keep public class com.google.android.gms.measurement.AppMeasurement { public *; }

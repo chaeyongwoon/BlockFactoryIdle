@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a940bbc76b346429da342c9b8971540f, type: 3}
+  m_Name: Recipe_Data_2
+  m_EditorClassIdentifier: 
+  _recipeName: Block Man 3
+  _heroType: 2
+  _thumbnail_Sprite: {fileID: 21300000, guid: 6084951453aed42d4bac4a18ff37e4de, type: 3}
+  _bluePrint_Sprites:
+  - {fileID: 21300000, guid: 5531e9a4f8fac4291aec94ac088dafe4, type: 3}
+  - {fileID: 21300000, guid: 26303466328134bee9128e0e54fba08b, type: 3}
+  - {fileID: 21300000, guid: 098a6818b2d5748049fcc006558770da, type: 3}
+  - {fileID: 21300000, guid: 5b68fcb1f73d840fdaf0d9cf502855d4, type: 3}
+  - {fileID: 21300000, guid: c14c73621ff9e41afbb7b7c9e20881bf, type: 3}
+  _bluePrintFillSprites:
+  - {fileID: 21300000, guid: d48a5563bbccb419dab9da82fa0caaaf, type: 3}
+  - {fileID: 21300000, guid: 1cec12d1575e34c149414ccb7a49f2fd, type: 3}
+  - {fileID: 21300000, guid: 2ecd4883732f1480fa9f87fc15e5f928, type: 3}
+  - {fileID: 21300000, guid: af817f71ebe8540dfb6b9136ded6b5de, type: 3}
+  - {fileID: 21300000, guid: 964a2d417327844eeb55713ad0348508, type: 3}
+  _makingTime: 15
+  _partsCount: 5
+  _partsSprites:
+  - {fileID: 21300000, guid: 4dcaa019453d042d3b437c1f1d768f1c, type: 3}
+  - {fileID: 21300000, guid: e3bee80da6dcb40c1b89e82ead65a361, type: 3}
+  - {fileID: 21300000, guid: c5742199609fb49f2b24c678779bebc1, type: 3}
+  - {fileID: 21300000, guid: d4505d34516444e1db13e47633374878, type: 3}
+  - {fileID: 21300000, guid: b32404466020e4cadb02d264157d00b1, type: 3}
+  - {fileID: 21300000, guid: 98b3cea6ac9fb4bf18e809c0446127e9, type: 3}
+  - {fileID: 21300000, guid: 3c1fe1da3b2f94864a7e1c1f3167d221, type: 3}
+  - {fileID: 21300000, guid: 619545b301c824fae9592599e3abb8f6, type: 3}
+  - {fileID: 21300000, guid: e4fe91486ff7640f2ab87c1c0e14d1f1, type: 3}
+  - {fileID: 21300000, guid: d1f3550bd209f4e959228cc996122dff, type: 3}
+  - {fileID: 21300000, guid: 41d10009a63514cdc8a11abd8a73010c, type: 3}
+  - {fileID: 21300000, guid: e1d9720bd789c44cbb85a790c2f5a556, type: 3}
+  - {fileID: 21300000, guid: a74f88ecad2cf4743b490e40d5f1b542, type: 3}
+  - {fileID: 21300000, guid: b3988cb88d4494ca495018f29c088e10, type: 3}
+  - {fileID: 21300000, guid: e174f408498c04b299a4345b1f6ebc8e, type: 3}
+  - {fileID: 21300000, guid: 473e2b2cef5dc422a8747c097fac0afc, type: 3}
+  - {fileID: 21300000, guid: 3c8cae80777ef4a07afe668381ece44a, type: 3}
+  - {fileID: 21300000, guid: 9bc1833ed875a4c7e9bfd0dc77af09bb, type: 3}
+  - {fileID: 21300000, guid: 02e91375388794c41960b65a798c83d1, type: 3}
+  - {fileID: 21300000, guid: 5160057972eb94c748fd4e59a4d5381e, type: 3}
+  _partsMeshes:
+  - {fileID: -74632675242484447, guid: c8bc206f8c89040ffb6c90ef2b6f02c9, type: 3}
+  - {fileID: 174167444236898285, guid: 12e254510e06244de8c8e5de802d3af3, type: 3}
+  - {fileID: 8828146118479483312, guid: aa421778ddb424d35903f10a0ff01fd7, type: 3}
+  - {fileID: 6724200875268591973, guid: 1a509e189edd44e4192220dba3082e29, type: 3}
+  - {fileID: -7644740218661129909, guid: c8bc206f8c89040ffb6c90ef2b6f02c9, type: 3}
+  - {fileID: 3989235282365890482, guid: 12e254510e06244de8c8e5de802d3af3, type: 3}
+  - {fileID: -6277907655492281350, guid: aa421778ddb424d35903f10a0ff01fd7, type: 3}
+  - {fileID: 1215590259298716632, guid: 1a509e189edd44e4192220dba3082e29, type: 3}
+  - {fileID: 5192826069960521353, guid: c8bc206f8c89040ffb6c90ef2b6f02c9, type: 3}
+  - {fileID: 2798828923442622392, guid: 12e254510e06244de8c8e5de802d3af3, type: 3}
+  - {fileID: 8081100854174934482, guid: aa421778ddb424d35903f10a0ff01fd7, type: 3}
+  - {fileID: -7358848408662881257, guid: 1a509e189edd44e4192220dba3082e29, type: 3}
+  - {fileID: -7728130522698982559, guid: c8bc206f8c89040ffb6c90ef2b6f02c9, type: 3}
+  - {fileID: 6938687020530842577, guid: 12e254510e06244de8c8e5de802d3af3, type: 3}
+  - {fileID: 7193092491986355355, guid: aa421778ddb424d35903f10a0ff01fd7, type: 3}
+  - {fileID: 1038759091276620202, guid: 1a509e189edd44e4192220dba3082e29, type: 3}
+  - {fileID: 1212788745471904768, guid: c8bc206f8c89040ffb6c90ef2b6f02c9, type: 3}
+  - {fileID: -236039309839709042, guid: 12e254510e06244de8c8e5de802d3af3, type: 3}
+  - {fileID: -4974766870392860870, guid: aa421778ddb424d35903f10a0ff01fd7, type: 3}
+  - {fileID: 166779041323487488, guid: 1a509e189edd44e4192220dba3082e29, type: 3}
+  _baseDamage: 10
+  _baseAttackInterval: 1
+  _baseSpeed: 5
+  _baseHP: 10
+  _baseDefense: 1
+  _damageValue: 5
+  _attackIntervalValue: 0.1
+  _speedValue: 2
+  _HPValue: 10
+  _defenseValue: 1

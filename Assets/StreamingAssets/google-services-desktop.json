@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665422922731",
+    "project_id": "block-factory-idle",
+    "storage_bucket": "block-factory-idle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665422922731:android:ab9ef9fb70168a04aa0fae",
+        "android_client_info": {
+          "package_name": "com.mondayoff.blockmatchhero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjmV-iOEO2kfyONuLm2V1JRc-3t5SXR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

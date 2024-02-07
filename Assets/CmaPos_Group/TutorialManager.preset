@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TutorialManager
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: c01fec73441f0480292e6e975fec6802,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.size
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[0].x
+    value: -417
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[0].y
+    value: 450
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[0].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[1].x
+    value: 348
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[1].y
+    value: -901
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[1].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[2].x
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[2].y
+    value: 334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[2].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[3].x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[3].y
+    value: -90
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[3].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[4].x
+    value: -161
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[4].y
+    value: 370
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[4].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[5].x
+    value: -412
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[5].y
+    value: 274
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[5].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[6].x
+    value: -112
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[6].y
+    value: 343
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgPoss.Array.data[6].z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.size
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[0].x
+    value: 4783.4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[0].y
+    value: 5345
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[1].x
+    value: 4463.6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[1].y
+    value: 4865.52
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[2].x
+    value: 17435.69
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[2].y
+    value: 5120.79
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[3].x
+    value: 6789
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[3].y
+    value: 6645
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[4].x
+    value: 6221.933
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[4].y
+    value: 7888.901
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[5].x
+    value: 5372
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[5].y
+    value: 5288
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[6].x
+    value: 4456
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _imgSizes.Array.data[6].y
+    value: 4886
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cams.Array.size
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cams.Array.data[0]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cams.Array.data[1]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cams.Array.data[2]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cams.Array.data[3]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cams.Array.data[4]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cams.Array.data[5]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _cams.Array.data[6]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: isFirst
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _maskImg
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _tutorial_Level
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

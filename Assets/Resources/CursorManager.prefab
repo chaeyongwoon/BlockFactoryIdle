@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1329229306479031280
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1329229306479031282}
+  - component: {fileID: 1329229306479031283}
+  m_Layer: 0
+  m_Name: CursorManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1329229306479031282
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1329229306479031280}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1329229306479031283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1329229306479031280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1298b7d3d57d408b9eca6a3347da3d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _cursorSet:
+  - cursorTex: {fileID: 2800000, guid: 8d88f6f955245475db112da6a3ba7739, type: 3}
+    cursorClickedTex: {fileID: 2800000, guid: 228da5a5f2ba148619aa7505debe4351, type: 3}
+    hotSpot: {x: 65, y: 40}
+  - cursorTex: {fileID: 2800000, guid: b29e6b896fc284e32965d693a7055643, type: 3}
+    cursorClickedTex: {fileID: 2800000, guid: ebe4400c806f24510b6c7a55687460b0, type: 3}
+    hotSpot: {x: 60, y: 0}
+  - cursorTex: {fileID: 2800000, guid: d91199868127846faaad361c8d29372e, type: 3}
+    cursorClickedTex: {fileID: 2800000, guid: b29a2a9c3eff248da9d508691abb75bb, type: 3}
+    hotSpot: {x: 5, y: 45}
+  - cursorTex: {fileID: 2800000, guid: fd1b9de2dac5b487d85b77e4c8233c4e, type: 3}
+    cursorClickedTex: {fileID: 2800000, guid: 20e28699cd4fa4542a6723fda6fa59fe, type: 3}
+    hotSpot: {x: 20, y: 20}
+  - cursorTex: {fileID: 2800000, guid: d3083dd260b25429ea6a4ee5af440ac5, type: 3}
+    cursorClickedTex: {fileID: 2800000, guid: dd43320b2bedd43c2abfe9e1e5295c52, type: 3}
+    hotSpot: {x: 25, y: 0}
+  - cursorTex: {fileID: 2800000, guid: db7a3b77aa55b4a5b9cfb295452a4a54, type: 3}
+    cursorClickedTex: {fileID: 2800000, guid: 7d5ca8b909d71429ab5d2d143760c1e9, type: 3}
+    hotSpot: {x: 115, y: 10}
+  - cursorTex: {fileID: 2800000, guid: acaf2268eb59a4f4381c43cb9ecc06b6, type: 3}
+    cursorClickedTex: {fileID: 2800000, guid: 8311120e2a93345b9ad941263c145a32, type: 3}
+    hotSpot: {x: 10, y: 40}
+  - cursorTex: {fileID: 2800000, guid: 5e8c4ffce23c4441cbb490cfc099bffc, type: 3}
+    cursorClickedTex: {fileID: 2800000, guid: 895d89fdd0fdf421bb216d8e00a261e0, type: 3}
+    hotSpot: {x: 100, y: 10}
+  - cursorTex: {fileID: 2800000, guid: d630793ecfe034db1a13995ec2192cc2, type: 3}
+    cursorClickedTex: {fileID: 2800000, guid: 67ee48cfd8739494d9537d2233693fa7, type: 3}
+    hotSpot: {x: 10, y: 0}

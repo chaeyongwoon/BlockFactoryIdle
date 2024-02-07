@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">665422922731</string>
+  <string name="google_storage_bucket" translatable="false">block-factory-idle.appspot.com</string>
+  <string name="project_id" translatable="false">block-factory-idle</string>
+  <string name="google_api_key" translatable="false">AIzaSyAFjmV-iOEO2kfyONuLm2V1JRc-3t5SXR0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFjmV-iOEO2kfyONuLm2V1JRc-3t5SXR0</string>
+  <string name="google_app_id" translatable="false">1:665422922731:android:ab9ef9fb70168a04aa0fae</string>
+</resources>
